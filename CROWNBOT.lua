@@ -1846,7 +1846,7 @@ do
                 Transparency = .8;
                 Position = v2new(viewportsize.X/8, 6);
                 Outline = true;
-                Visible = true;
+                Visible = false;
             })
         else
             credits.Position = v2new(viewportsize.X/8, 6);
